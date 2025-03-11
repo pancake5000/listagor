@@ -1,6 +1,6 @@
 layout: page
 title: "markdown-sample"
-permalink: /mkd
+permalink: /mkd/
 
 An h1 header
 ============
