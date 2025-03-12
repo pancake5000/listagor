@@ -1,9 +1,10 @@
 ---
 title: Rysy (wierzchołek NW)
 layout: default
+permalink: /site16.md/
 ---
 Rysy (wierzchołek NW)
-==========================================================================
+=================================================================================================
 ---
 title: Rysy (wierzchołek NW)
 layout: default

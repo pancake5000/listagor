@@ -1,9 +1,10 @@
 ---
 title: Dufourspitze
 layout: default
+permalink: /site2.md/
 ---
 Dufourspitze
-========================================================
+==============================================================================
 ---
 title: Dufourspitze
 layout: default

@@ -1,9 +1,10 @@
 ---
 title: Signal de Botrange
 layout: default
+permalink: /site34.md/
 ---
 Signal de Botrange
-====================================================================
+===========================================================================================
 ---
 title: Signal de Botrange
 layout: default

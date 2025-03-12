@@ -1,9 +1,10 @@
 ---
 title: Djeravica
 layout: default
+permalink: /site11.md/
 ---
 Djeravica
-==================================================
+=========================================================================
 ---
 title: Djeravica
 layout: default

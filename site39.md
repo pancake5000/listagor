@@ -1,9 +1,10 @@
 ---
 title: Vaalserberg
 layout: default
+permalink: /site39.md/
 ---
 Vaalserberg
-======================================================
+=============================================================================
 ---
 title: Vaalserberg
 layout: default

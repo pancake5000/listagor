@@ -1,9 +1,10 @@
 ---
 title: bezimienny lub Iczka
 layout: default
+permalink: /site36.md/
 ---
 bezimienny lub Iczka
-========================================================================
+===============================================================================================
 ---
 title: bezimienny lub Iczka
 layout: default

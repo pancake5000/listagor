@@ -1,9 +1,10 @@
 ---
 title: Kékes
 layout: default
+permalink: /site31.md/
 ---
 Kékes
-==========================================
+=================================================================
 ---
 title: Kékes
 layout: default

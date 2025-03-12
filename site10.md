@@ -1,9 +1,10 @@
 ---
 title: Korab
 layout: default
+permalink: /site10.md/
 ---
 Korab
-==========================================
+=================================================================
 ---
 title: Korab
 layout: default

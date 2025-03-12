@@ -1,9 +1,10 @@
 ---
 title: Gaiziņkalns
 layout: default
+permalink: /site41.md/
 ---
 Gaiziņkalns
-======================================================
+=============================================================================
 ---
 title: Gaiziņkalns
 layout: default

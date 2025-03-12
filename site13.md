@@ -1,9 +1,10 @@
 ---
 title: Vorder Grauspitz
 layout: default
+permalink: /site13.md/
 ---
 Vorder Grauspitz
-================================================================
+=======================================================================================
 ---
 title: Vorder Grauspitz
 layout: default

@@ -1,9 +1,10 @@
 ---
 title: Mont Blanc
 layout: default
+permalink: /site1.md/
 ---
 Mont Blanc
-====================================================
+==========================================================================
 ---
 title: Mont Blanc
 layout: default

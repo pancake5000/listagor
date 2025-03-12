@@ -1,9 +1,10 @@
 ---
 title: Mitikas
 layout: default
+permalink: /site8.md/
 ---
 Mitikas
-==============================================
+====================================================================
 ---
 title: Mitikas
 layout: default

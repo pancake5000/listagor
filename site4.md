@@ -1,9 +1,10 @@
 ---
 title: Mulhacén
 layout: default
+permalink: /site4.md/
 ---
 Mulhacén
-================================================
+======================================================================
 ---
 title: Mulhacén
 layout: default

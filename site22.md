@@ -1,9 +1,10 @@
 ---
 title: Kebnekaise
 layout: default
+permalink: /site22.md/
 ---
 Kebnekaise
-====================================================
+===========================================================================
 ---
 title: Kebnekaise
 layout: default

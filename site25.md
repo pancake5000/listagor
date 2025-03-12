@@ -1,9 +1,10 @@
 ---
 title: Vrh Dinare
 layout: default
+permalink: /site25.md/
 ---
 Vrh Dinare
-====================================================
+===========================================================================
 ---
 title: Vrh Dinare
 layout: default

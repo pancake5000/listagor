@@ -1,9 +1,10 @@
 ---
 title: Narodnaja
 layout: default
+permalink: /site24.md/
 ---
 Narodnaja
-==================================================
+=========================================================================
 ---
 title: Narodnaja
 layout: default

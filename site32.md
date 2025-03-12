@@ -1,9 +1,10 @@
 ---
 title: Slættaratindur
 layout: default
+permalink: /site32.md/
 ---
 Slættaratindur
-============================================================
+===================================================================================
 ---
 title: Slættaratindur
 layout: default

@@ -1,9 +1,10 @@
 ---
 title: Wysoka Góra
 layout: default
+permalink: /site42.md/
 ---
 Wysoka Góra
-======================================================
+=============================================================================
 ---
 title: Wysoka Góra
 layout: default

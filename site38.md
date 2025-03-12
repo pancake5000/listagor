@@ -1,9 +1,10 @@
 ---
 title: Góra Dzierżyńska
 layout: default
+permalink: /site38.md/
 ---
 Góra Dzierżyńska
-================================================================
+=======================================================================================
 ---
 title: Góra Dzierżyńska
 layout: default

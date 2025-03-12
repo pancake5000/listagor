@@ -1,9 +1,10 @@
 ---
 title: Wzgórze Watykańskie
 layout: default
+permalink: /site45.md/
 ---
 Wzgórze Watykańskie
-======================================================================
+=============================================================================================
 ---
 title: Wzgórze Watykańskie
 layout: default

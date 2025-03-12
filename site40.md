@@ -1,9 +1,10 @@
 ---
 title: Suur Munamägi
 layout: default
+permalink: /site40.md/
 ---
 Suur Munamägi
-==========================================================
+=================================================================================
 ---
 title: Suur Munamägi
 layout: default

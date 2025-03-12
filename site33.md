@@ -1,9 +1,10 @@
 ---
 title: Monte Titano
 layout: default
+permalink: /site33.md/
 ---
 Monte Titano
-========================================================
+===============================================================================
 ---
 title: Monte Titano
 layout: default

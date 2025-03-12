@@ -1,9 +1,10 @@
 ---
 title: Zla Kolata
 layout: default
+permalink: /site15.md/
 ---
 Zla Kolata
-====================================================
+===========================================================================
 ---
 title: Zla Kolata
 layout: default

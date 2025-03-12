@@ -1,9 +1,10 @@
 ---
 title: Gerlach
 layout: default
+permalink: /site12.md/
 ---
 Gerlach
-==============================================
+=====================================================================
 ---
 title: Gerlach
 layout: default

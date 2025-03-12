@@ -1,9 +1,10 @@
 ---
 title: Pic de Coma Pedrosa
 layout: default
+permalink: /site6.md/
 ---
 Pic de Coma Pedrosa
-======================================================================
+============================================================================================
 ---
 title: Pic de Coma Pedrosa
 layout: default

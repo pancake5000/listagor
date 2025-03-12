@@ -1,9 +1,10 @@
 ---
 title: Maglić
 layout: default
+permalink: /site18.md/
 ---
 Maglić
-============================================
+===================================================================
 ---
 title: Maglić
 layout: default

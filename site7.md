@@ -1,9 +1,10 @@
 ---
 title: Musała
 layout: default
+permalink: /site7.md/
 ---
 Musała
-============================================
+==================================================================
 ---
 title: Musała
 layout: default

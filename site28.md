@@ -1,9 +1,10 @@
 ---
 title: Halti
 layout: default
+permalink: /site28.md/
 ---
 Halti
-==========================================
+=================================================================
 ---
 title: Halti
 layout: default

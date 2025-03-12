@@ -1,9 +1,10 @@
 ---
 title: Midžor
 layout: default
+permalink: /site20.md/
 ---
 Midžor
-============================================
+===================================================================
 ---
 title: Midžor
 layout: default

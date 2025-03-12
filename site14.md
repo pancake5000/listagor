@@ -1,9 +1,10 @@
 ---
 title: Moldoveanu
 layout: default
+permalink: /site14.md/
 ---
 Moldoveanu
-====================================================
+===========================================================================
 ---
 title: Moldoveanu
 layout: default

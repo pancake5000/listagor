@@ -1,9 +1,10 @@
 ---
 title: Ta’ Dmejrek
 layout: default
+permalink: /site43.md/
 ---
 Ta’ Dmejrek
-======================================================
+=============================================================================
 ---
 title: Ta’ Dmejrek
 layout: default

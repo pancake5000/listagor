@@ -1,9 +1,10 @@
 ---
 title: Dealul Bălăneşti
 layout: default
+permalink: /site37.md/
 ---
 Dealul Bălăneşti
-================================================================
+=======================================================================================
 ---
 title: Dealul Bălăneşti
 layout: default

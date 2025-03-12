@@ -1,9 +1,10 @@
 ---
 title: Ben Nevis
 layout: default
+permalink: /site27.md/
 ---
 Ben Nevis
-==================================================
+=========================================================================
 ---
 title: Ben Nevis
 layout: default

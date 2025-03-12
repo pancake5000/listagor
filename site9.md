@@ -1,9 +1,10 @@
 ---
 title: Triglav
 layout: default
+permalink: /site9.md/
 ---
 Triglav
-==============================================
+====================================================================
 ---
 title: Triglav
 layout: default
