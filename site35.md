@@ -7,6 +7,6 @@ Kneiff
 ===================================================================
 
 
-![Kneiff](https://www.visittroisvierges.lu/files/84947.jpg)
+![Kneiff](https://peakvisor.com/photo/a/ae/Gehaansbierg_Diddeleng.JPG)
 
-![Kneiff](https://www.visittroisvierges.lu/files/84948.jpg)
+![Kneiff](https://cdn.getyourguide.com/img/country/5dc7f9278a58a.jpeg/88.jpg)

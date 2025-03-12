@@ -7,6 +7,6 @@ Zla Kolata
 ===========================================================================
 
 
-![Zla Kolata](https://noplacelikeoutside.be/wp-content/uploads/2018/05/Zla-Kolata-1-scaled.jpg)
+![Zla Kolata](https://gorskaprzygoda.pl/wp-content/uploads/2017/10/Zla-Kolata-9.jpg)
 
-![Zla Kolata](http://www.takeadventure.com/wp-content/uploads/2016/11/163_zla_kolata_03975_1.jpg)
+![Zla Kolata](https://gorskaprzygoda.pl/wp-content/uploads/2017/10/Zla-Kolata-8.jpg)

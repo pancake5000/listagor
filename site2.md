@@ -7,6 +7,6 @@ Dufourspitze
 ==============================================================================
 
 
-![Dufourspitze](https://s3-us-west-1.amazonaws.com/peakery-media/images/items/main/cache/monte-rosa-dufourspitze.jpg.1920x1440_q95_crop.jpg)
+![Dufourspitze](https://goryaktywnie.pl/wp-content/uploads/2022/09/dufourspitze-historia-1024x683.jpg)
 
-![Dufourspitze](https://image.hoehenfieber.ch/Berge/Dufourspitze-4634m.jpg)
+![Dufourspitze](https://szwendamsie.pl/userdata/public/upload/1-na-przedwierzcholku-dufourspitze-ok-4500m.jpg?2316)

@@ -7,6 +7,6 @@ Großglockner
 ==============================================================================
 
 
-![Großglockner](https://bergparadiese.de/wp-content/uploads/2022/06/Der-Grossglockner-vom-Lucknerhaus-aus-betrachtet.jpg)
+![Großglockner](https://i.redd.it/fcpkoehbc4k51.jpg)
 
-![Großglockner](https://tourism.hochkoenig.at/media/infrastructure/grossglockner-strasse-blick-auf-grossglockner.jpg)
+![Großglockner](https://antonia-austria.at/wp-content/uploads/2022/04/grossglockner-hochalpenstrasse-landhaus-antonia-ferienwohnungen.jpg)

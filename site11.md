@@ -7,6 +7,6 @@ Djeravica
 =========================================================================
 
 
-![Djeravica](https://i.redd.it/cd31ma1xy5211.jpg)
+![Djeravica](https://viewkosova.com/wp-content/uploads/2018/10/969316_565214870188303_1381556263_n.1000x0.jpg)
 
-![Djeravica](http://rugala.pl/static/photos/2012/11/djeravica-schemat-drog-1.jpg)
+![Djeravica](https://viewkosova.com/wp-content/uploads/2018/10/1003306_564096790300111_1193960579_n.1000x0.jpg)

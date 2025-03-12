@@ -7,6 +7,6 @@ Monte Titano
 ===============================================================================
 
 
-![Monte Titano](https://www.thebestviewpoints.com/wp-content/uploads/2020/05/AAA7751-Panorama-photoshopped.jpg)
+![Monte Titano](https://images.trvl-media.com/media/content/shared/images/travelguides/destination/601369/Monte-Titano-135870.jpg)
 
-![Monte Titano](https://c8.alamy.com/comp/AYJF50/sm-san-marino-monte-titano-AYJF50.jpg)
+![Monte Titano](https://images.trvl-media.com/media/content/shared/images/travelguides/destination/6054756/San-Marino-All-135799.jpg)

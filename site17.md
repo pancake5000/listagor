@@ -7,6 +7,6 @@ Galdhøpiggen
 ===============================================================================
 
 
-![Galdhøpiggen](https://www.thebestviewpoints.com/wp-content/uploads/2020/05/AAA3851-Panorama-photoshopped.jpg)
+![Galdhøpiggen](https://2.bp.blogspot.com/-s1ZlJqraOUU/UFneHfA6xCI/AAAAAAAAAac/VX8mR-wf2hM/s1600/Semeltinden+2230.jpg)
 
-![Galdhøpiggen](https://www.mountain-forecast.com/system/images/5974/large_illustration/Galdhopiggen.jpg)
+![Galdhøpiggen](https://www.thebestviewpoints.com/wp-content/uploads/2020/05/AAA3851-Panorama-photoshopped.jpg)

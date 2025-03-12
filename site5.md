@@ -7,6 +7,6 @@ Zugspitze
 ========================================================================
 
 
-![Zugspitze](https://www.zugspitzevent.de/media/k2/galleries/49/Zugspitze+Eibsee.jpg)
+![Zugspitze](http://www.e-tapetki.pl/tapetki/duze/277671_lasy-szczyt-bawarskie-alpy-wettersteingebirge.jpg)
 
-![Zugspitze](https://cdn.getyourguide.com/img/location/59631e5817636.jpeg/88.jpg)
+![Zugspitze](https://pawelgluza.com/wp-content/uploads/2020/07/DSC_0597.jpg)

@@ -7,6 +7,6 @@ Triglav
 ====================================================================
 
 
-![Triglav](https://kranjska-gora.si/wp-content/uploads/2020/08/675-1-1920x1272.jpg)
+![Triglav](https://balkany.pl/wp-content/uploads/2021/11/dolina-w-parku-narodowym-triglav-alpy-julijskie-slowenia_shutterstock_191795690-scaled.jpg)
 
-![Triglav](https://climbtriglav.com/wp-content/uploads/2018/05/triglav_lakes_triglav_national_park.jpg)
+![Triglav](https://www.acampamos.com/wp-content/uploads/parque-nacional-de-triglav-eslovenia.jpg)

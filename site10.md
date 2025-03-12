@@ -7,6 +7,6 @@ Korab
 =================================================================
 
 
-![Korab](https://macedonia-timeless.com/wp-content/uploads/2018/09/korapski-vodopad-korab-planinski-biser.jpg)
+![Korab](https://albania360.com/wp-content/uploads/2023/02/Korab-Koritnik-NP-Albania-mountain-winter.jpg)
 
-![Korab](https://macedonia-timeless.com/wp-content/uploads/2018/09/korab-reljef.jpg)
+![Korab](http://www.spectacularmountains.com/wp-content/uploads/2018/12/Korab_Featured_IMG_0016.jpg)

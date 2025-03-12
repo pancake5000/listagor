@@ -7,6 +7,6 @@ Halti
 =================================================================
 
 
-![Halti](https://dogsnet.com/wp-content/uploads/2020/10/what-is-a-halti-DN-long.jpg)
+![Halti](https://www.thebestviewpoints.com/wp-content/uploads/2023/04/DSC_5965.jpg)
 
-![Halti](https://thedoghousellc.com/wp-content/uploads/2020/08/Halti_headcollar_Red_close-up-1024x1024-1.jpg)
+![Halti](https://i.pinimg.com/originals/86/fa/56/86fa569108404ae9be8e1623c4c91527.jpg)

@@ -7,6 +7,6 @@ Kékes
 =================================================================
 
 
-![Kékes](https://www.thebestviewpoints.com/wp-content/uploads/2019/01/DSC_8077-Panorama-photoshopped-2.jpg)
+![Kékes](https://www.places2visit.pl/wp-content/uploads/2019/04/radziejowa-f.jpg)
 
-![Kékes](https://symbolhunt.com/wp-content/uploads/2020/12/Kekes.jpg)
+![Kékes](https://navtur.pl/files/plc_pano/408.jpg)
