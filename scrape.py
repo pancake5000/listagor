@@ -52,8 +52,8 @@ mdFile = mdutils.MdUtils(file_name="index.md", title="Lista Gor")
 mdFile.new_header(level=1, title="Korona europy")
 mdFile.new_header(level=2, title="Czyli najwyzsze szczyty 47 krajow europy")
 table_content = []
-for i in range(len(mountains2)):
-    table_content.extend([i, cntlist[i], mdutils.new_link()])
+for i in range(len(mntlist)):
+    table_content.extend([i, cntlist[i], mdFile.new_inline_link(link = 'https://pancake5000.github.io/listagor/site' +str(i) + 'md', text = mntlist[i])])
 print(table_content)
 mdFile.new_table(
     columns=3, rows=len(table_content) // 3, text=table_content, text_align="center"
