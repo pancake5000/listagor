@@ -6,8 +6,9 @@ Lista Gor
 
 ## Czyli najwyzsze szczyty 47 krajow europy
 
-|0|Francja|[Mont Blanc](https://pancake5000.github.io/listagor/site0.md)|
+||Państwa|Najwyższe Szczyty|
 | :---: | :---: | :---: |
+|0|Francja|[Mont Blanc](https://pancake5000.github.io/listagor/site0.md)|
 |1|Włochy|[Mont Blanc](https://pancake5000.github.io/listagor/site1.md)|
 |2|Szwajcaria|[Dufourspitze](https://pancake5000.github.io/listagor/site2.md)|
 |3|Austria|[Großglockner](https://pancake5000.github.io/listagor/site3.md)|

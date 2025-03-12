@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import mdutils
+import mdutils
+from duckduckgo_search import DDGS
 
 r = requests.get("https://pl.wikipedia.org/wiki/Korona_Europy")
 r.text
@@ -37,13 +39,25 @@ for i in range(len(all_table_elements)):
         mountains2[i] = mountains[i].string
     mountains2[i] = mountains2[i].replace("\n", "")
 print(mountains2)
-
+print(DDGS().images(keywords = mountains2[1],max_results = 1))
 
 mntlist = mountains2[1:]
 cntlist = countries2[1:]
 sites = [0] * len(mntlist)
 for i in range(len(mntlist)):
     sites[i] = mdutils.MdUtils(file_name="site" + str(i), title=mntlist[i])
+    #Perform DuckDuckGo image search
+    if not (mntlist[i] == ''):
+        if mntlist[i] =='bezimienny lub Iczka':
+            results = DDGS().images(keywords = 'Iczka', max_results=2)
+        else:
+            results = DDGS().images(keywords = mntlist[i], max_results=2)
+    image_urls = [result['image'] for result in results]
+    
+    # Add image URLs to the markdown file
+    for url in image_urls:
+        sites[i].new_paragraph(f"![{mntlist[i]}]({url})")
+    
     sites[i].create_md_file()
 
 
@@ -51,7 +65,7 @@ mdFile = mdutils.MdUtils(file_name="index.md", title="Lista Gor")
 
 mdFile.new_header(level=1, title="Korona europy")
 mdFile.new_header(level=2, title="Czyli najwyzsze szczyty 47 krajow europy")
-table_content = []
+table_content = ['', 'Państwa', 'Najwyższe Szczyty']
 for i in range(len(mntlist)):
     table_content.extend([i, cntlist[i], mdFile.new_inline_link(link = 'https://pancake5000.github.io/listagor/site' +str(i) + '.md', text = mntlist[i])])
 print(table_content)
