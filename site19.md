@@ -1,6 +1,9 @@
-
-
-
+---
+title: Pico
+layout: default
+---
+Pico
+========================================
 ---
 title: Pico
 layout: default

@@ -1,6 +1,9 @@
-
-
-
+---
+title: Slættaratindur
+layout: default
+---
+Slættaratindur
+============================================================
 ---
 title: Slættaratindur
 layout: default

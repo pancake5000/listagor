@@ -45,7 +45,7 @@ mntlist = mountains2[1:]
 cntlist = countries2[1:]
 sites = [0] * len(mntlist)
 for i in range(len(mntlist)):
-    sites[i] = mdutils.MdUtils(file_name="site" + str(i))
+    sites[i] = mdutils.MdUtils(file_name="site" + str(i), title="---\ntitle: " + mntlist[i] +"\nlayout: default\n---\n"+mntlist[i])
     sites[i].write("---\ntitle: " + mntlist[i] +"\nlayout: default\n---")
     #Perform DuckDuckGo image search
     if not (mntlist[i] == ''):
@@ -58,8 +58,9 @@ for i in range(len(mntlist)):
     # Add image URLs to the markdown file
     for url in image_urls:
         sites[i].new_paragraph(f"![{mntlist[i]}]({url})")
-    
-    sites[i].create_md_file()
+    f = open('site'+str(i)+'.md','w')
+    f.write(sites[i].get_md_text()[1:])
+    #sites[i].create_md_file()
 
 
 mdFile = mdutils.MdUtils(file_name="index.md")

@@ -1,6 +1,9 @@
-
-
-
+---
+title: Śnieżka
+layout: default
+---
+Śnieżka
+==============================================
 ---
 title: Śnieżka
 layout: default

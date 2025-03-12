@@ -1,6 +1,9 @@
-
-
-
+---
+title: Öræfajökull
+layout: default
+---
+Öræfajökull
+======================================================
 ---
 title: Öræfajökull
 layout: default

@@ -1,6 +1,9 @@
-
-
-
+---
+title: Dealul Bălăneşti
+layout: default
+---
+Dealul Bălăneşti
+================================================================
 ---
 title: Dealul Bălăneşti
 layout: default

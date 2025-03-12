@@ -1,6 +1,9 @@
-
-
-
+---
+title: Musała
+layout: default
+---
+Musała
+============================================
 ---
 title: Musała
 layout: default

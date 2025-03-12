@@ -1,6 +1,9 @@
-
-
-
+---
+title: Rysy (wierzchołek NW)
+layout: default
+---
+Rysy (wierzchołek NW)
+==========================================================================
 ---
 title: Rysy (wierzchołek NW)
 layout: default

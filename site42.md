@@ -1,6 +1,9 @@
-
-
-
+---
+title: Wysoka Góra
+layout: default
+---
+Wysoka Góra
+======================================================
 ---
 title: Wysoka Góra
 layout: default

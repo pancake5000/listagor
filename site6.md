@@ -1,6 +1,9 @@
-
-
-
+---
+title: Pic de Coma Pedrosa
+layout: default
+---
+Pic de Coma Pedrosa
+======================================================================
 ---
 title: Pic de Coma Pedrosa
 layout: default

@@ -1,6 +1,9 @@
-
-
-
+---
+title: Maglić
+layout: default
+---
+Maglić
+============================================
 ---
 title: Maglić
 layout: default

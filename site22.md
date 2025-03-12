@@ -1,6 +1,9 @@
-
-
-
+---
+title: Kebnekaise
+layout: default
+---
+Kebnekaise
+====================================================
 ---
 title: Kebnekaise
 layout: default

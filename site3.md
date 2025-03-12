@@ -1,6 +1,9 @@
-
-
-
+---
+title: Großglockner
+layout: default
+---
+Großglockner
+========================================================
 ---
 title: Großglockner
 layout: default

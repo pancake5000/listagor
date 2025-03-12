@@ -1,6 +1,9 @@
-
-
-
+---
+title: Vaalserberg
+layout: default
+---
+Vaalserberg
+======================================================
 ---
 title: Vaalserberg
 layout: default

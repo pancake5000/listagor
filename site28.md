@@ -1,6 +1,9 @@
-
-
-
+---
+title: Halti
+layout: default
+---
+Halti
+==========================================
 ---
 title: Halti
 layout: default

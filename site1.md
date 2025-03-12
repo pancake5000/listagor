@@ -1,6 +1,9 @@
-
-
-
+---
+title: Mont Blanc
+layout: default
+---
+Mont Blanc
+====================================================
 ---
 title: Mont Blanc
 layout: default

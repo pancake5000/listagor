@@ -1,6 +1,9 @@
-
-
-
+---
+title: Midžor
+layout: default
+---
+Midžor
+============================================
 ---
 title: Midžor
 layout: default

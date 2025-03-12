@@ -1,6 +1,9 @@
-
-
-
+---
+title: Vrh Dinare
+layout: default
+---
+Vrh Dinare
+====================================================
 ---
 title: Vrh Dinare
 layout: default

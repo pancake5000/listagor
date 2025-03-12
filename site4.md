@@ -1,6 +1,9 @@
-
-
-
+---
+title: Mulhacén
+layout: default
+---
+Mulhacén
+================================================
 ---
 title: Mulhacén
 layout: default

@@ -1,6 +1,9 @@
-
-
-
+---
+title: Korab
+layout: default
+---
+Korab
+==========================================
 ---
 title: Korab
 layout: default

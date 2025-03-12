@@ -1,6 +1,9 @@
-
-
-
+---
+title: Suur Munamägi
+layout: default
+---
+Suur Munamägi
+==========================================================
 ---
 title: Suur Munamägi
 layout: default

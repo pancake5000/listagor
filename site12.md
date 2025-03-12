@@ -1,6 +1,9 @@
-
-
-
+---
+title: Gerlach
+layout: default
+---
+Gerlach
+==============================================
 ---
 title: Gerlach
 layout: default

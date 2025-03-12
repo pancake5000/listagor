@@ -1,6 +1,9 @@
-
-
-
+---
+title: Signal de Botrange
+layout: default
+---
+Signal de Botrange
+====================================================================
 ---
 title: Signal de Botrange
 layout: default

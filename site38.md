@@ -1,6 +1,9 @@
-
-
-
+---
+title: Góra Dzierżyńska
+layout: default
+---
+Góra Dzierżyńska
+================================================================
 ---
 title: Góra Dzierżyńska
 layout: default

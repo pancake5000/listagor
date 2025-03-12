@@ -1,6 +1,9 @@
-
-
-
+---
+title: Mitikas
+layout: default
+---
+Mitikas
+==============================================
 ---
 title: Mitikas
 layout: default

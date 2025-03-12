@@ -1,6 +1,9 @@
-
-
-
+---
+title: Gaiziņkalns
+layout: default
+---
+Gaiziņkalns
+======================================================
 ---
 title: Gaiziņkalns
 layout: default

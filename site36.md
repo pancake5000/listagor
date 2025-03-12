@@ -1,6 +1,9 @@
-
-
-
+---
+title: bezimienny lub Iczka
+layout: default
+---
+bezimienny lub Iczka
+========================================================================
 ---
 title: bezimienny lub Iczka
 layout: default
