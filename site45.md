@@ -5,10 +5,7 @@ permalink: /site45.md/
 ---
 Wzgórze Watykańskie
 =============================================================================================
----
-title: Wzgórze Watykańskie
-layout: default
----
+
 
 ![Wzgórze Watykańskie](http://koronaeuropy.pl/wp-content/uploads/2017/02/watykan_58.jpg)
 

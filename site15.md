@@ -5,10 +5,7 @@ permalink: /site15.md/
 ---
 Zla Kolata
 ===========================================================================
----
-title: Zla Kolata
-layout: default
----
+
 
 ![Zla Kolata](https://noplacelikeoutside.be/wp-content/uploads/2018/05/Zla-Kolata-1-scaled.jpg)
 

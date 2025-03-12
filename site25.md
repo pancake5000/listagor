@@ -5,10 +5,7 @@ permalink: /site25.md/
 ---
 Vrh Dinare
 ===========================================================================
----
-title: Vrh Dinare
-layout: default
----
+
 
 ![Vrh Dinare](https://mynaszlaku.pl/wp-content/uploads/2022/05/dinara-najwyzszy-szczyt-chorwacji-0036-768x512.jpg)
 

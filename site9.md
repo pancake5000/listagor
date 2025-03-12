@@ -5,10 +5,7 @@ permalink: /site9.md/
 ---
 Triglav
 ====================================================================
----
-title: Triglav
-layout: default
----
+
 
 ![Triglav](https://kranjska-gora.si/wp-content/uploads/2020/08/675-1-1920x1272.jpg)
 

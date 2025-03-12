@@ -5,10 +5,7 @@ permalink: /site44.md/
 ---
 
 =======================================================
----
-title: 
-layout: default
----
+
 
 ![](http://www.thebestviewpoints.com/wp-content/uploads/2019/03/DJI_0027-Panorama.jpg)
 

@@ -1,10 +1,10 @@
-
-
-
 ---
 title: Korona Europy 
 layout: default
 ---
+Korona Europy
+===========================================================
+
 # Korona europy
 
 ## Czyli najwyzsze szczyty 47 krajow europy

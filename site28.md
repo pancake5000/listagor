@@ -5,10 +5,7 @@ permalink: /site28.md/
 ---
 Halti
 =================================================================
----
-title: Halti
-layout: default
----
+
 
 ![Halti](https://dogsnet.com/wp-content/uploads/2020/10/what-is-a-halti-DN-long.jpg)
 

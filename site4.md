@@ -5,10 +5,7 @@ permalink: /site4.md/
 ---
 Mulhacén
 ======================================================================
----
-title: Mulhacén
-layout: default
----
+
 
 ![Mulhacén](https://www.summitpost.org/images/original/617431.jpg)
 

@@ -5,10 +5,7 @@ permalink: /site7.md/
 ---
 Musała
 ==================================================================
----
-title: Musała
-layout: default
----
+
 
 ![Musała](http://zgierka.pl/wp-content/uploads/2017/08/DSC01511b.jpg)
 

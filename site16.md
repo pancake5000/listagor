@@ -5,10 +5,7 @@ permalink: /site16.md/
 ---
 Rysy (wierzchołek NW)
 =================================================================================================
----
-title: Rysy (wierzchołek NW)
-layout: default
----
+
 
 ![Rysy (wierzchołek NW)](https://f.hikr.org/files/1762003.jpg)
 

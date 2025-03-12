@@ -5,10 +5,7 @@ permalink: /site21.md/
 ---
 Öræfajökull
 =============================================================================
----
-title: Öræfajökull
-layout: default
----
+
 
 ![Öræfajökull](https://images.guidetoiceland.is/752298/x/0/oraefajokull-glacier-in-south-iceland.jpg?ar=1.91:1&w=1200&fit=crop)
 

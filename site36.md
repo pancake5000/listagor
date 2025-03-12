@@ -5,10 +5,7 @@ permalink: /site36.md/
 ---
 bezimienny lub Iczka
 ===============================================================================================
----
-title: bezimienny lub Iczka
-layout: default
----
+
 
 ![bezimienny lub Iczka](https://d-art.ppstatic.pl/kadry/k/r/df/8f/654cfd770a3b2_o_medium.jpg)
 
