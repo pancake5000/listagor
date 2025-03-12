@@ -1,7 +1,10 @@
 
 Kebnekaise
 ==========
-
+---
+title: Kebnekaise
+layout: default
+---
 
 ![Kebnekaise](https://farm8.staticflickr.com/7329/9932754104_bcdd9d3e10_o.jpg)
 

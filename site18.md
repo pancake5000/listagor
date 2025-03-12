@@ -1,7 +1,10 @@
 
 Maglić
 ======
-
+---
+title: Maglić
+layout: default
+---
 
 ![Maglić](https://sarajevskasehara.com/wp-content/uploads/2020/02/maglic-mountain-in-bosnia-and-herzegovia-min-1024x678.jpg)
 

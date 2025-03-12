@@ -1,7 +1,10 @@
 
 Djeravica
 =========
-
+---
+title: Djeravica
+layout: default
+---
 
 ![Djeravica](https://i.redd.it/cd31ma1xy5211.jpg)
 

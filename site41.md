@@ -1,7 +1,10 @@
 
 Gaiziņkalns
 ===========
-
+---
+title: Gaiziņkalns
+layout: default
+---
 
 ![Gaiziņkalns](https://www.latvia.travel/sites/default/files/styles/max_1300x1300/public/media_image/tourism_sight/gaizinkalns_7.jpg?itok=dr5O-sP_)
 

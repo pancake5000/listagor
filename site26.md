@@ -1,7 +1,10 @@
 
 Śnieżka
 =======
-
+---
+title: Śnieżka
+layout: default
+---
 
 ![Śnieżka](https://media.villagreta.pl/m/2012/08/sniezka.jpg)
 

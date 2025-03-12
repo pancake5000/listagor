@@ -1,7 +1,10 @@
 
 Ta’ Dmejrek
 ===========
-
+---
+title: Ta’ Dmejrek
+layout: default
+---
 
 ![Ta’ Dmejrek](http://www.thebestviewpoints.com/wp-content/uploads/2019/03/DJI_0027-Panorama.jpg)
 

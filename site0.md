@@ -1,7 +1,10 @@
 
 Mont Blanc
 ==========
-
+---
+title: Mont Blanc
+layout: default
+---
 
 ![Mont Blanc](https://www.thenaturaladventure.com/wp-content/uploads/2018/06/tmb-classic.jpg)
 

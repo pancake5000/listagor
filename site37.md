@@ -1,7 +1,10 @@
 
 Dealul Bălăneşti
 ================
-
+---
+title: Dealul Bălăneşti
+layout: default
+---
 
 ![Dealul Bălăneşti](https://descopera.md/wp-content/uploads/2022/11/dealul-balanesti-1089x730.jpg)
 

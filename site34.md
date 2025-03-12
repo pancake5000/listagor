@@ -1,7 +1,10 @@
 
 Signal de Botrange
 ==================
-
+---
+title: Signal de Botrange
+layout: default
+---
 
 ![Signal de Botrange](https://ardennen.nl/wp-content/uploads/2018/07/Signal-de-Botrange.jpg)
 

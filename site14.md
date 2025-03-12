@@ -1,7 +1,10 @@
 
 Moldoveanu
 ==========
-
+---
+title: Moldoveanu
+layout: default
+---
 
 ![Moldoveanu](http://www.takeadventure.com/wp-content/uploads/2016/11/159_moldoveanu_03360.jpg)
 

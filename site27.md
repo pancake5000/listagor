@@ -1,7 +1,10 @@
 
 Ben Nevis
 =========
-
+---
+title: Ben Nevis
+layout: default
+---
 
 ![Ben Nevis](https://geographical.co.uk/wp-content/uploads/bennevis.jpg)
 

@@ -1,7 +1,10 @@
 
 Vaalserberg
 ===========
-
+---
+title: Vaalserberg
+layout: default
+---
 
 ![Vaalserberg](https://usercontent.one/wp/www.thebestviewpoints.com/wp-content/uploads/2018/07/DJI_0026-Panorama.jpg)
 

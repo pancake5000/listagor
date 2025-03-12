@@ -1,7 +1,10 @@
 
 Großglockner
 ============
-
+---
+title: Großglockner
+layout: default
+---
 
 ![Großglockner](https://bergparadiese.de/wp-content/uploads/2022/06/Der-Grossglockner-vom-Lucknerhaus-aus-betrachtet.jpg)
 

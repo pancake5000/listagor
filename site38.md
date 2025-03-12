@@ -1,7 +1,10 @@
 
 Góra Dzierżyńska
 ================
-
+---
+title: Góra Dzierżyńska
+layout: default
+---
 
 ![Góra Dzierżyńska](https://navtur.pl/files/plc_pano/3561.jpg)
 

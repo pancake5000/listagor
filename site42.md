@@ -1,7 +1,10 @@
 
 Wysoka Góra
 ===========
-
+---
+title: Wysoka Góra
+layout: default
+---
 
 ![Wysoka Góra](http://www.tapeciarnia.pl/tapety/na-telefon/tapeta-na-telefon-wysoka-gora-na-brzegu-rzeki.jpg)
 

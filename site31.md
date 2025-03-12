@@ -1,7 +1,10 @@
 
 Kékes
 =====
-
+---
+title: Kékes
+layout: default
+---
 
 ![Kékes](https://www.thebestviewpoints.com/wp-content/uploads/2019/01/DSC_8077-Panorama-photoshopped-2.jpg)
 

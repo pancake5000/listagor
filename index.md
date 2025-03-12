@@ -1,7 +1,10 @@
 
 Lista Gor
 =========
-
+---
+title: Korona Europy 
+layout: default
+---
 # Korona europy
 
 ## Czyli najwyzsze szczyty 47 krajow europy

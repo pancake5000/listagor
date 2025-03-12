@@ -1,7 +1,10 @@
 
 Slættaratindur
 ==============
-
+---
+title: Slættaratindur
+layout: default
+---
 
 ![Slættaratindur](https://guidetofaroeislands.fo/wp-content/uploads/2021/06/slaettaratindur-1-701x468.jpg)
 
