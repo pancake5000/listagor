@@ -1,6 +1,6 @@
 
-Maglić
-======
+
+
 ---
 title: Maglić
 layout: default

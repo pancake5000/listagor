@@ -1,6 +1,6 @@
 
-Ta’ Dmejrek
-===========
+
+
 ---
 title: Ta’ Dmejrek
 layout: default

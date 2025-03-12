@@ -1,6 +1,6 @@
 
-Monte Titano
-============
+
+
 ---
 title: Monte Titano
 layout: default

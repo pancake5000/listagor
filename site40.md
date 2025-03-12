@@ -1,6 +1,6 @@
 
-Suur Munamägi
-=============
+
+
 ---
 title: Suur Munamägi
 layout: default

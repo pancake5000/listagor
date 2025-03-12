@@ -1,6 +1,6 @@
 
-Galdhøpiggen
-============
+
+
 ---
 title: Galdhøpiggen
 layout: default

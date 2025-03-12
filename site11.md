@@ -1,6 +1,6 @@
 
-Djeravica
-=========
+
+
 ---
 title: Djeravica
 layout: default

@@ -1,6 +1,6 @@
 
-Zugspitze
-=========
+
+
 ---
 title: Zugspitze
 layout: default

@@ -1,6 +1,6 @@
 
-Mitikas
-=======
+
+
 ---
 title: Mitikas
 layout: default

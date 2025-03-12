@@ -1,6 +1,6 @@
 
-Dufourspitze
-============
+
+
 ---
 title: Dufourspitze
 layout: default

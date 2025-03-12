@@ -1,6 +1,6 @@
 
-Dealul Bălăneşti
-================
+
+
 ---
 title: Dealul Bălăneşti
 layout: default

@@ -45,7 +45,7 @@ mntlist = mountains2[1:]
 cntlist = countries2[1:]
 sites = [0] * len(mntlist)
 for i in range(len(mntlist)):
-    sites[i] = mdutils.MdUtils(file_name="site" + str(i), title=mntlist[i])
+    sites[i] = mdutils.MdUtils(file_name="site" + str(i))
     sites[i].write("---\ntitle: " + mntlist[i] +"\nlayout: default\n---")
     #Perform DuckDuckGo image search
     if not (mntlist[i] == ''):
@@ -62,7 +62,7 @@ for i in range(len(mntlist)):
     sites[i].create_md_file()
 
 
-mdFile = mdutils.MdUtils(file_name="index.md", title="Lista Gor")
+mdFile = mdutils.MdUtils(file_name="index.md")
 mdFile.write("---\ntitle: Korona Europy \nlayout: default\n---")
 mdFile.new_header(level=1, title="Korona europy")
 mdFile.new_header(level=2, title="Czyli najwyzsze szczyty 47 krajow europy")

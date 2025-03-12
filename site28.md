@@ -1,6 +1,6 @@
 
-Halti
-=====
+
+
 ---
 title: Halti
 layout: default

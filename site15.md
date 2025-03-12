@@ -1,6 +1,6 @@
 
-Zla Kolata
-==========
+
+
 ---
 title: Zla Kolata
 layout: default

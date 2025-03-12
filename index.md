@@ -1,6 +1,6 @@
 
-Lista Gor
-=========
+
+
 ---
 title: Korona Europy 
 layout: default

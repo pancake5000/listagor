@@ -1,6 +1,6 @@
 
-Vaalserberg
-===========
+
+
 ---
 title: Vaalserberg
 layout: default

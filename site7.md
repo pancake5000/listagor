@@ -1,6 +1,6 @@
 
-Musała
-======
+
+
 ---
 title: Musała
 layout: default

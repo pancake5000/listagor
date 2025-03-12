@@ -1,6 +1,6 @@
 
-Narodnaja
-=========
+
+
 ---
 title: Narodnaja
 layout: default

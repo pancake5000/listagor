@@ -1,6 +1,6 @@
 
-Gerlach
-=======
+
+
 ---
 title: Gerlach
 layout: default

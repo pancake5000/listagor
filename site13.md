@@ -1,6 +1,6 @@
 
-Vorder Grauspitz
-================
+
+
 ---
 title: Vorder Grauspitz
 layout: default

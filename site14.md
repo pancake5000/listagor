@@ -1,6 +1,6 @@
 
-Moldoveanu
-==========
+
+
 ---
 title: Moldoveanu
 layout: default

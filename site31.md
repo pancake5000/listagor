@@ -1,6 +1,6 @@
 
-Kékes
-=====
+
+
 ---
 title: Kékes
 layout: default

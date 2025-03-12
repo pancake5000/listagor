@@ -1,6 +1,6 @@
 
-Triglav
-=======
+
+
 ---
 title: Triglav
 layout: default

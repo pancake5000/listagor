@@ -1,6 +1,6 @@
 
-Midžor
-======
+
+
 ---
 title: Midžor
 layout: default

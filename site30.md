@@ -1,6 +1,6 @@
 
-Mahya Dağı
-==========
+
+
 ---
 title: Mahya Dağı
 layout: default

@@ -1,6 +1,6 @@
 
-Ben Nevis
-=========
+
+
 ---
 title: Ben Nevis
 layout: default

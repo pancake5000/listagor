@@ -1,6 +1,6 @@
 
-Vrh Dinare
-==========
+
+
 ---
 title: Vrh Dinare
 layout: default

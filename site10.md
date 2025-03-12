@@ -1,6 +1,6 @@
 
-Korab
-=====
+
+
 ---
 title: Korab
 layout: default

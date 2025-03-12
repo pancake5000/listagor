@@ -1,6 +1,6 @@
 
-Mulhacén
-========
+
+
 ---
 title: Mulhacén
 layout: default
